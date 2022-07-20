@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-I'm a graduate student at Northeastern University, completing my Master's degree in Engineering Management. I am passionate about solving problems and I constantly look out for improvements that can be made in products or services. I completed my bachelor's in computer engineering from University of Mumbai, where I learned various programming languages like Python, JavaScript, C, C++, SQL and HIVEQL among others. Throughout my education, I've worked on multiple projects using various different programming languages and I am currently looking to advance my career as a Software Product Manager, where I can be a pert of developing meaningful products that change people's lives.
+<p align="justify">I'm a graduate student at Northeastern University, completing my Master's degree in Engineering Management. I am passionate about solving problems and I constantly look out for improvements that can be made in products or services. I completed my bachelor's in computer engineering from University of Mumbai, where I learned various programming languages like Python, JavaScript, C, C++, SQL and HIVEQL among others. Throughout my education, I've worked on multiple projects using various different programming languages and I am currently looking to advance my career as a Software Product Manager, where I can be a pert of developing meaningful products that change people's lives.</p>
 
 <h1>Some of my skills</h1>
 <img src="https://github.com/KalpakGaonkar/images/blob/main/Screen%20Shot%202022-07-20%20at%207.11.27%20PM.png" width=100%></img>
