@@ -63,4 +63,4 @@ Here are some ideas to get you started:
 
 ## You can view all of my projects [here](https://github.com/KalpakGaonkar?tab=repositories)
 
-Any feedback on my profile would be much appreciated as I am constantly looking to improve myself
+Any feedback on my profile would be much appreciated! Thank you!
