@@ -49,11 +49,11 @@ I'm a graduate student at Northeastern University, completing my Master's degree
 - You can view this project by clicking [here](https://github.com/KalpakGaonkar/Taxi-Booking-System)
 - <details>
   <summary>Here are some screenshots!</summary>
-  <img src="https://github.com/KalpakGaonkar/Taxi-Booking-System/blob/master/website_images/Login.png" name="Home Screen" height=500>
+  <img src="https://github.com/KalpakGaonkar/Taxi-Booking-System/blob/master/website_images/Login.png" name="Home Screen" height=400>
   &nbsp&nbsp&nbsp&nbsp
-  <img src="https://github.com/KalpakGaonkar/Taxi-Booking-System/blob/master/website_images/Signup.png" name="Selecting TVs" height=500>
+  <img src="https://github.com/KalpakGaonkar/Taxi-Booking-System/blob/master/website_images/Signup.png" name="Selecting TVs" height=400>
   &nbsp&nbsp&nbsp&nbsp
-  <img src="https://github.com/KalpakGaonkar/Taxi-Booking-System/blob/master/website_images/User_booking.png" name="Main Screen" height=500>
+  <img src="https://github.com/KalpakGaonkar/Taxi-Booking-System/blob/master/website_images/User_booking.png" name="Main Screen" height=400>
 </details>
 
 ## You can view all of my projects [here](https://github.com/KalpakGaonkar?tab=repositories)
