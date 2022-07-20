@@ -29,11 +29,11 @@ I'm a graduate student at Northeastern University, completing my Master's degree
 - You can view the project by clicking [here](https://github.com/KalpakGaonkar/Remote-App-for-Smart-TV) (please keep in mind that this repository has not been completed yet, so please bear with me. Thank you!)
 - <details>
   <summary>Here are some screenshots!</summary>
-  <img src="https://github.com/KalpakGaonkar/Remote-App-for-Smart-TV/blob/main/Screenshots/Home_Screen.png" name="Home Screen" height=650>
+  <img src="https://github.com/KalpakGaonkar/Remote-App-for-Smart-TV/blob/main/Screenshots/Home_Screen.png" name="Home Screen" height=600>
   &nbsp&nbsp&nbsp&nbsp
-  <img src="https://github.com/KalpakGaonkar/Remote-App-for-Smart-TV/blob/main/Screenshots/Selecting_TVS.png" name="Selecting TVs" height=650>
+  <img src="https://github.com/KalpakGaonkar/Remote-App-for-Smart-TV/blob/main/Screenshots/Selecting_TVS.png" name="Selecting TVs" height=600>
   &nbsp&nbsp&nbsp&nbsp
-  <img src="https://github.com/KalpakGaonkar/Remote-App-for-Smart-TV/blob/main/Screenshots/Main_Screen.png" name="Main Screen" height=650>
+  <img src="https://github.com/KalpakGaonkar/Remote-App-for-Smart-TV/blob/main/Screenshots/Main_Screen.png" name="Main Screen" height=600>
 </details>
 
 ## 2. DigSight
