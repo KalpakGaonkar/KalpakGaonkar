@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <img src="https://github.com/KalpakGaonkar/images/blob/main/myskills.png" width=100%></img>
 
 <h1>What I'm passionate about</h1>
-<img src="https://github.com/KalpakGaonkar/images/blob/main/mypassions1.png" width=100%></img>
+<img src="https://github.com/KalpakGaonkar/images/blob/main/mypassion.png" width=100%></img>
 
 ### 📫 How to reach me: 
 - [LinkedIn](https://www.linkedin.com/in/kalpakgaonkar/)
