@@ -18,10 +18,13 @@ Here are some ideas to get you started:
 
 I'm a graduate student at Northeastern University, completing my Master's degree in Engineering Management. I am passionate about solving problems and I constantly look out for improvements that can be made in products or services. I completed my bachelor's in computer engineering from University of Mumbai, where I learned various programming languages like Python, JavaScript, C, C++, SQL and HIVEQL among others. Throughout my education, I've worked on multiple projects using various different programming languages and I am currently looking to advance my career as a Software Product Manager, where I can be a pert of developing meaningful products that change people's lives.
 
-📫 How to reach me: 
+### My Skills
+<img src=""
+
+### 📫 How to reach me: 
 - [LinkedIn](https://www.linkedin.com/in/kalpakgaonkar/)
 
-## Some of my projects are
+<h1> Some of my projects are </h1>
 
 ## 1. Remote for Smart TV
 - For this project, I have created a user interface mockup of an IOS application using FIGMA, that the user can use to control their smart TV from their phone. 
