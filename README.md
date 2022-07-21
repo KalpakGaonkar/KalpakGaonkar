@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <h1>What I'm passionate about</h1>
 <img src="https://github.com/KalpakGaonkar/images/blob/main/mypassions1.png" width=100%></img>
 
-### 📫 How to reach me: 
+## 📫 How to reach me: 
 - [LinkedIn](https://www.linkedin.com/in/kalpakgaonkar/)
 
 <h1> Some of my projects are </h1>
