@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-<p align="justify">I'm a graduate student at Northeastern University, completing my Master's degree in Engineering Management. I am passionate about solving problems and I constantly look out for improvements that can be made in products or services. I completed my bachelor's in computer engineering from University of Mumbai, where I learned various programming languages like Python, JavaScript, C, C++, SQL and HIVEQL among others. Throughout my education, I've worked on multiple projects using various different programming languages and I am currently looking to advance my career as a Software Product Manager, where I can be a pert of developing meaningful products that change people's lives.</p>
+<p align="justify">I'm a recent graduate of Northeastern University, completing my Master's degree in Engineering Management. I am passionate about solving problems and I constantly look out for improvements that can be made in products or services. I completed my bachelor's in computer engineering from the University of Mumbai, where I learned various programming languages like Python, JavaScript, C, C++, SQL, and HIVEQL among others. Throughout my education, I've worked on multiple projects using different programming languages and I am currently looking to advance my career as a Software Product Manager, where I can be a part of developing meaningful products that change people's lives.</p>
 
 <p>You can have a look at my website <a href="https://kalpakgaonkar.wixsite.com/kalpak" target="_blank">here</a></p>
 
@@ -58,5 +58,3 @@ Here are some ideas to get you started:
 </details>
 
 ## You can view all of my projects [here](https://github.com/KalpakGaonkar?tab=repositories)
-
-Any feedback on my profile would be much appreciated! Thank you!
